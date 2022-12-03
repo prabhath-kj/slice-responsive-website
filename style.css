@@ -60,6 +60,8 @@ h1 {
   background-image: linear-gradient(to left, #592169, #5f1782);
   box-shadow: 0 8px 48px 8px rgba(47, 91, 234, 0.175);
   padding: 60px;
+  overflow: hidden;
+  position: sticky;
 }
 .footer_area .row {
   margin-left: -25px;
